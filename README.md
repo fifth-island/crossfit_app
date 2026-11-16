@@ -2,7 +2,21 @@
 
 A responsive CrossFit journal with 35 imported sessions from September 21–November 14, 2026. Built with vanilla JavaScript, SVG, and Vite.
 
-## Run
+## Host your own FORM on Vercel
+
+We recommend one Vercel project per person. You get a stable web address for your journal that you can bookmark on your phone or computer. You can do the entire setup in a browser.
+
+1. **Make your GitHub copy.** Accept your invitation to this template, then choose **Use this template → Create a new repository**. Create it under your account (for example, `my-form-journal`). The included workout and scan history ships with the website: anyone who can open your site can see those records, even if the GitHub repository is private. Before publishing, keep only data you want visitors to see.
+2. **Import your copy into Vercel.** Open [New Project on Vercel](https://vercel.com/new), sign in with GitHub, and find **your own repository** under **Import Git Repository**. Click **Import**. If the repo is missing, configure the Vercel GitHub App’s repository access to include your copy, then return to the import screen.
+3. **Deploy.** Give the project a name and leave the root directory at the repository root (the folder containing `package.json`). The included [Vercel configuration](vercel.json) specifies **Vite**, build command `npm run build`, and output directory `dist`. No environment variables or database are needed. Click **Deploy**.
+4. **Open your live app.** Once the deployment is **Ready**, open the production domain from your project dashboard (typically `your-project.vercel.app`). Bookmark that address rather than a preview link. Try opening **Logbook** on your phone to verify the same published workouts appear there.
+5. **Publish the next week.** Follow [Weekly updates from GitHub](#weekly-updates-from-github), then push or merge your changes into your repo’s production branch (normally `main`). Vercel builds the update automatically. Check **Deployments** for your commit and **Ready**, refresh the same production URL, and look for the newest workout in **Logbook**. If the build fails, open that deployment’s build logs.
+
+**What follows you between devices?** Workouts published from GitHub are available on every device. Edits made inside FORM stay in that browser. To move a browser journal to another device, choose **Export backup** on the first device and **Restore backup** on the second. Restoring replaces the destination journal; export it first if you want to keep it.
+
+For more detail, see [Vercel’s getting-started guide](https://vercel.com/docs/getting-started-with-vercel) and [production vs. preview deployments](https://vercel.com/docs/deployments/environments).
+
+## Run locally
 
 ```sh
 npm ci
