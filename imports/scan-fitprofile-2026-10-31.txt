@@ -1,0 +1,14 @@
+Source: Fit Profile "Body Composition Analysis" PDF (2 pages), 10/31/2026 09:49. Height 177 cm, age 27, male.
+Transcribed values (kg unless noted):
+Body water 47.3 L (38.7–47.3) · Protein 13.08 (10.41–12.73) · Bone mass 4.33 (3.59–4.38) · Body fat mass 14.11 (8.26–16.51)
+Soft lean mass 60.36 · Fat-free mass 64.69 · Weight 78.8 (58.59–79.26) · Skeletal muscle 37.11 (29.54–36.11)
+BMI 25.2 (18.5–24.9) · PBF 17.9% (10–20) · Visceral fat level 5 · BMR 1768 kcal (1670.2–1961.8) · LBM 64.69 (52.71–64.42)
+Subcutaneous fat 16% (8.6–16.7), 12.61 kg (6.78–13.16) · Metabolic age 27 · Fitness score 82/100 · Body shape: Muscular
+Segmental soft lean (kg, % reference): L arm 4.0, 118.5 · R arm 3.9, 115.5 · Trunk 29.8, 108.8 · L leg 9.6, 99.4 · R leg 9.6, 99.4
+Segmental fat (kg, % reference): L arm 0.47, 76.1 · R arm 0.47, 76.1 · Trunk 8.27, 189.2 · L leg 1.73, 97.3 · R leg 1.73, 97.3
+Weight control: normal weight 76.11 · weight control −2.69 · fat mass control −2.69 · muscle control +0
+Other: muscle mass 76.6% · skeletal muscle 47.1% · bone 5.5% · protein 16.6% · body water 60% · SMI 8.7 (7–8.6) · waist-hip ratio 0.93 (≤0.9)
+Body balance: upper, lower and upper/lower extremities "slightly uneven" · Body strength: upper "developed", lower "normal".
+
+Stored in the app in lb (×2.20462, 0.1 lb): weight 173.7, SMM 81.8, fat 31.1, water 104.3, dry lean (protein + bone) 38.4, LBM 142.6,
+segment lean 8.8 / 8.6 / 65.7 / 21.2 / 21.2, segment fat 1.0 / 1.0 / 18.2 / 3.8 / 3.8, subcutaneous fat 27.8, fat control −5.9, height 69.7 in.

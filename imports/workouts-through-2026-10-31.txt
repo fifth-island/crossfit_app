@@ -1,0 +1,27 @@
+Source: cumulative table pasted 2026-10-31. Rows for Oct 26 – Oct 31 imported in this batch; earlier rows were imported previously.
+
+| Day | Section | Movement | Prescription (board) | Your numbers | Notes |
+|---|---|---|---|---|---|
+| Mon, Oct 26 | Strength | 1RM Clean | Build to 1-rep max | **105 lb** | — |
+| Mon, Oct 26 | WOD "Grace" | Clean & Jerk | 30 reps, Rx 135/95·L3 115/75·L2 105/65·L1 95/55 | 75 lb | — |
+| Mon, Oct 26 | WOD "Grace" | **Time** | — | **7:18**, all 30 reps | — |
+| Tue, Oct 27 | Strength | Overhead Squat | 8-5-5-3 | 95 lb | — |
+| Tue, Oct 27 | WOD "Nancy" (5 rounds) | 400m Run / Overhead Squats | 15 reps, Rx 95/65·L3 85/55·L2 75/45·L1 65/35 | 65 lb DBs (scaled) | — |
+| Tue, Oct 27 | WOD "Nancy" | **Time** | — | **18:21** | — |
+| Tue, Oct 27 | Extra | Jump rope (single-unders) | — | 500 | — |
+| Wed, Oct 28 | Strength | 1RM Back Squat | Build to 1-rep max | **145 lb** | — |
+| Wed, Oct 28 | Strength | 1RM Bench Press | Build to 1-rep max | **165 lb** | — |
+| Wed, Oct 28 | WOD "Helen" (3 rounds) | 400m Run / KB Swings / Pull-ups | 21 KBS (53/35), 12 pull-ups, L1 44/35·L2 35/26·L3 26/16 | 32 lb KB | — |
+| Wed, Oct 28 | WOD "Helen" | **Time** | — | **14:46** | — |
+| Wed, Oct 28 | Extra | Jump rope (single-unders) | — | 500 | — |
+| Wed, Oct 28 | Extra (gym accessory work) | Bicep Curls / Tricep Rope Pushdown | — | 4×12 at 30 lb / 4×12 at 30 lb | — |
+| Fri, Oct 30 | Strength | 1RM Jerk | Build to 1-rep max | **130 lb** | — |
+| Fri, Oct 30 | WOD "Elizabeth" (21-15-9) | Cleans / Ring Dips | Rx 135/95 | 75 lb | — |
+| Fri, Oct 30 | WOD "Elizabeth" | **Time** | — | **9:15** | — |
+| Fri, Oct 30 | Extra | Jump rope (single-unders) | — | 500 | — |
+| Fri, Oct 30 | Extra (gym accessory work) | Low / Mid / High Cable Fly | — | 4×12 at 10 lb per side / 4×12 at 15 lb per side / 4×12 at 20 lb per side | — |
+| Sat, Oct 31 | Hyrox AMRAP 1 (14 min) | Alt. Sandbag Box Step-ups / Sled Push / 400m Run | 20 / 15m at 370 lb / 400m | 30 lb sandbag, 370 lb sled | **2 rounds + 12 reps** |
+| Sat, Oct 31 | Hyrox AMRAP 2 (14 min) | Wall Balls / Chest-to-Bar Pull-ups / 400m Run | 20 (30/20) / 15 / 400m | Wall ball weight, C2B scaling not recorded | **2 rounds + 20 reps** |
+| Sat, Oct 31 | Hyrox AMRAP 3 (14 min) | Deadlifts / Burpees Over Bar / 400m Run | 20 (185/125) / 15 / 400m | 145 lb | **3 rounds** |
+| Sat, Oct 31 | Extra | Jump rope (single-unders) | — | 500 | — |
+| Sat, Oct 31 | Extra (gym accessory work) | Cable Bicep Curl / Rope Tricep Pushdown / Overhead Tricep Extension / Incline DB Curl | — | 4×12 at 35 lb each | — |

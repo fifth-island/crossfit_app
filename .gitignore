@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+tests/*.png
+.vercel/
+.vercel
+.backup-*/
+.review-backup/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
